@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--Created:cb85b80c-f585-40ff-8bfc-12ff4d0e34a9-->
+<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest"
+     Name="SurveyReminder"
+     ProductID="{46314447-89e7-4f70-b0e2-6100dde37625}"
+     Version="1.2.0.0"
+     SharePointMinVersion="15.0.0.0"
+>
+  <Properties>
+    <Title>Survey Reminder</Title>
+    <StartPage>~appWebUrl/Pages/Default.aspx?{StandardTokens}</StartPage>
+    <SupportedLocales>
+      <SupportedLocale CultureName="en-IN" />
+      <SupportedLocale CultureName="en-US" />
+      <SupportedLocale CultureName="en" />
+    </SupportedLocales>
+  </Properties>
+
+  <AppPrincipal>
+    <Internal />
+  </AppPrincipal>
+  <AppPermissionRequests>
+    <AppPermissionRequest Scope="http://sharepoint/content/sitecollection" Right="Read" />
+  </AppPermissionRequests>
+</App>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="61874a22-7755-4173-a7e3-3f78317984f8" SharePointProductVersion="15.0">
+  <FeatureManifests>
+    <FeatureManifest Location="Survey Reminder_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

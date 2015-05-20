@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="SharePoint App Feature" Id="b233a9e4-140c-420e-adc5-78475ea02abb" Scope="Web" Title="Survey Reminder Feature1" Version="1.2.0.0">
+  <ElementManifests>
+    <ElementManifest Location="Pages\Elements.xml" />
+    <ElementFile Location="Pages\Default.aspx" />
+    <ElementManifest Location="Scripts\Elements.xml" />
+    <ElementFile Location="Scripts\App.js" />
+    <ElementFile Location="Scripts\jquery-1.7.1.min.js" />
+    <ElementFile Location="Scripts\jquery-1.7.1.js" />
+    <ElementFile Location="Scripts\jquery-1.7.1.intellisense.js" />
+    <ElementManifest Location="Content\Elements.xml" />
+    <ElementFile Location="Content\App.css" />
+    <ElementManifest Location="Images\Elements.xml" />
+    <ElementFile Location="Images\AppIcon.png" />
+    <ElementFile Location="Images\favicon.ico" />
+    <ElementFile Location="Images\sort_asc.png" />
+    <ElementFile Location="Images\sort_asc_disabled.png" />
+    <ElementFile Location="Images\sort_both.png" />
+    <ElementFile Location="Images\sort_desc.png" />
+    <ElementFile Location="Images\sort_desc_disabled.png" />
+    <ElementFile Location="Images\Sorting icons.psd" />
+    <ElementFile Location="Images\icon.png" />
+    <ElementManifest Location="Elements.xml" />
+    <ElementFile Location="css\jquery.dataTables.min.css" />
+    <ElementFile Location="js\jquery.dataTables.min.js" />
+    <ElementFile Location="js\foundation.min.js" />
+    <ElementFile Location="css\foundation.min.css" />
+    <ElementFile Location="css\normalize.css" />
+    <ElementFile Location="css\Survey.css" />
+    <ElementFile Location="css\foundation-icons.css" />
+    <ElementFile Location="css\foundation-icons.eot" />
+    <ElementFile Location="css\foundation-icons.svg" />
+    <ElementFile Location="css\foundation-icons.ttf" />
+    <ElementFile Location="css\foundation-icons.woff" />
+  </ElementManifests>
+  <UpgradeActions>
+    <VersionRange>
+      <ApplyElementManifests>
+        <ElementManifest Location="Pages\Elements.xml" />
+        <ElementManifest Location="Scripts\Elements.xml" />
+        <ElementManifest Location="Content\Elements.xml" />
+        <ElementManifest Location="Images\Elements.xml" />
+        <ElementManifest Location="Elements.xml" />
+      </ApplyElementManifests>
+    </VersionRange>
+  </UpgradeActions>
+</Feature>

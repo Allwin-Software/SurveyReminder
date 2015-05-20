@@ -1,0 +1,4 @@
+D:\Demo Projects\Project\TFS\SharePoint Survey Remainder\Survey Reminder\Survey Reminder\bin\Debug\Survey Reminder.pdb
+D:\Demo Projects\Project\TFS\SharePoint Survey Remainder\Survey Reminder\Survey Reminder\obj\Debug\Survey Reminder.dll
+D:\Demo Projects\Project\TFS\SharePoint Survey Remainder\Survey Reminder\Survey Reminder\obj\Debug\Survey Reminder.pdb
+D:\Demo Projects\Project\TFS\SharePoint Survey Remainder\Survey Reminder\Survey Reminder\obj\Debug\Survey Reminder.csprojResolveAssemblyReference.cache

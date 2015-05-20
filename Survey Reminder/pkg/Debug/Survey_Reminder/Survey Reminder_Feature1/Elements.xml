@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="RootModule">
+    <File Path="css\jquery.dataTables.min.css" Url="css/jquery.dataTables.min.css" ReplaceContent="TRUE" />
+    <File Path="js\jquery.dataTables.min.js" Url="js/jquery.dataTables.min.js" ReplaceContent="TRUE" />
+    <File Path="js\foundation.min.js" Url="js/foundation.min.js" ReplaceContent="TRUE" />
+    <File Path="css\foundation.min.css" Url="css/foundation.min.css" ReplaceContent="TRUE" />
+    <File Path="css\normalize.css" Url="css/normalize.css" ReplaceContent="TRUE" />
+    <File Path="css\Survey.css" Url="css/Survey.css" ReplaceContent="TRUE" />
+    <File Path="css\foundation-icons.css" Url="css/foundation-icons.css" ReplaceContent="TRUE" />
+    <File Path="css\foundation-icons.eot" Url="css/foundation-icons.eot" ReplaceContent="TRUE" />
+    <File Path="css\foundation-icons.svg" Url="css/foundation-icons.svg" ReplaceContent="TRUE" />
+    <File Path="css\foundation-icons.ttf" Url="css/foundation-icons.ttf" ReplaceContent="TRUE" />
+    <File Path="css\foundation-icons.woff" Url="css/foundation-icons.woff" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
